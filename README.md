@@ -81,4 +81,5 @@ Before cleansing the data, I'm familiarising myself with it to identify inconsis
 
 Observations:
 
-The table below displays all column names and data types. The ride_id column is our primary key.
+![1. The table below displays all column names and data types. The ride_id column is our primary key.](Google-Data-Analytics-Capstone-Cyclistic-Case-Study/Primary%20Key.png)
+![2. The following table shows number of null values in each column.](
